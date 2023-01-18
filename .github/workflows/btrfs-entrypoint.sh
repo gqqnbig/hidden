@@ -14,7 +14,7 @@ apt install -y wget
 # Install mpi-servers
 # Parenthesis runs in subshell.
 (
-./install.sh
+./install.sh login
 )
 
 
